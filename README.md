@@ -1,1 +1,1 @@
-#Polynomial Library in C
+Polynomial Library in C
